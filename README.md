@@ -10,4 +10,4 @@ I am very passionate and dedicated to my work, i have plenty of problem solving,
 You can get in touch with me by visiting my website [mohammadahmadi.me](http://www.mohammadahmadi.me) , or you can send me an email to
 📧 [itsthemo1@gmail.com](http://mailto:itsthemo1@gmail.com); also you are more than welcome to follow my work on my github and visit my linkedin profile.
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](http://www.linkedin.com/in/mohammad-ahmadi-a4b70a1b8)
