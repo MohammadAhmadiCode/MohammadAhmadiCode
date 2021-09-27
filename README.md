@@ -3,11 +3,6 @@
 ## Front-End Web Developer | Bachelor of Engineering
 ### HTML / CSS / JS / React
 ### [itsthemo1@gmail.com](http://mailto:itsthemo1@gmail.com)
-<!--
-**MohammadAhmadiCode/MohammadAhmadiCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 I am a peruvian software developer, focused on web technologies. I have experience using some programming languages such as JavaScript , in collaboration with HTML and CSS to build amazing and complex web sites; involving beautiful interfaces, client side logic (front-end). I have knowledge in Computer Science, Responsive Web Design, Object Oriented Programming, APIs and Microservices, Agile Methodology and Scrum Framework, Git Flow, Create Web Animations, Create Web Games, among others. For the projects in which I was involved, I've used the version control system Git, together with Github & GitLab.
 
 I am very passionate and dedicated to my work, i have plenty of problem solving, communication and leadership skills; and I'm very good at teamwork. 
