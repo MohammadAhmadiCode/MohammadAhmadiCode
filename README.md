@@ -6,7 +6,7 @@
 [![image](https://custom-icon-badges.herokuapp.com/badge/+98-991--251--5020-orange?style=for-the-badge&logo=phone&logoColor=white)](http://tel:+989912515020)
 [![image](https://custom-icon-badges.herokuapp.com/badge/-Download%20Resume-F25278?style=for-the-badge&logo=download&logoColor=white)](http://mohammadahmadi.me/pdf/resume_mohammad_ahmadi.pdf)
 
-I am a peruvian software developer, focused on web technologies. I have knowledge in Computer Science, Responsive Web Design, Object Oriented Programming, APIs and Microservices, Agile Methodology and Scrum Framework, Git Flow, Create Web Animations, Create Web Games, among others. For the projects in which I was involved, I've used the version control system Git, together with Github & GitLab.
+I am a software developer, focused on web technologies. I have knowledge in Computer Science, Responsive Web Design, Object Oriented Programming, APIs and Microservices, Agile Methodology and Scrum Framework, Git Flow, Create Web Animations, Create Web Games, among others. For the projects in which I was involved, I've used the version control system Git, together with Github & GitLab.
 
 You can get in touch with me by following these links : 
 
